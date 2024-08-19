@@ -1,0 +1,14 @@
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\bin\Debug\net8.0\CachingProject.exe
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\bin\Debug\net8.0\CachingProject.deps.json
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\bin\Debug\net8.0\CachingProject.runtimeconfig.json
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\bin\Debug\net8.0\CachingProject.dll
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\bin\Debug\net8.0\CachingProject.pdb
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\obj\Debug\net8.0\CachingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\obj\Debug\net8.0\CachingProject.AssemblyInfoInputs.cache
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\obj\Debug\net8.0\CachingProject.AssemblyInfo.cs
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\obj\Debug\net8.0\CachingProject.csproj.CoreCompileInputs.cache
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\obj\Debug\net8.0\CachingProject.dll
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\obj\Debug\net8.0\refint\CachingProject.dll
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\obj\Debug\net8.0\CachingProject.pdb
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\obj\Debug\net8.0\CachingProject.genruntimeconfig.cache
+C:\Users\kory2\source\repos\CsharpMasterClassProjects\CachingProject\obj\Debug\net8.0\ref\CachingProject.dll
